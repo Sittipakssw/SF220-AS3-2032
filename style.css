@@ -2,7 +2,8 @@ html{
   background-color: #FFFFF0;
     }
 header{
-  font-family: sans-serif;
+  font-family: Cambria, Cochin, Georgia, Times, serif;
+  font-size: 25px;
   color: #A52A2A;
   background-color: Moccasin;
   width: 80%;
@@ -15,7 +16,7 @@ header{
      }
 
 nav {
-  font-family: sans-serif;
+  font-family: Cambria, Cochin, Georgia, Times, serif;
   width: 80%;
   font-weight: bolder;
   text-align: center;
@@ -26,7 +27,7 @@ nav {
     }
 
 main {
-  font-family: sans-serif;
+  font-family: Cambria, Cochin, Georgia, Times,  serif;
   width: 80%;
   color: #A52A2A;
   margin-left: auto;
@@ -39,7 +40,7 @@ footer {
   width: 80%;
   color: #A52A2A;
   font-size: 11px;
-  font-family: sans-serif;
+  font-family: Cambria, Cochin, Georgia, Times,  serif;
   font-weight: bolder;
   text-align: center;
   margin-left: auto;
@@ -62,4 +63,9 @@ footer {
   color: black
     }
 
+.size {
+  font-size: 28px;
+  font-weight: bolder;
+
+}
 
